@@ -1,15 +1,6 @@
 # Hi there :wave:
 
-
 <img align='right' src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="230">
-
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/t4fita/count.svg" />
-</p>
 
 ## About me
 
@@ -31,3 +22,8 @@ I'm Tafita. A self-taught developer, a FinTech enthusiast, a Financial Data Anal
 Want to discuss a project, have questions, or just want to say hi? Feel free to reach out!
 - Feel free to connect with me at [![Linkedin Badge](https://img.shields.io/badge/-Tafita_Rakotondrafara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tafita-rakotondrafara/)](https://www.linkedin.com/in/tafita-rakotondrafara) 
 - Or just send me an email at [![Gmail Badge](https://img.shields.io/badge/-tafitantsoa.rakotondrafara-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tafitantsoa.rakotondrafara@gmail.com)](mailto:tafitantsoa.rakotondrafara@gmail.com)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/t4fita/count.svg" />
+</p>
