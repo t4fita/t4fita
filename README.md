@@ -6,7 +6,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-I'm Tafita. A self-taught developer, a FinTech enthusiast, a Financial Data Analyst, and a Financial Consultant.
+I'm Tafita. 
+A self-taught developer, a FinTech enthusiast, a Financial Data Analyst, and a Financial Consultant.
 
 ## My toolkit
 <code><img height="30" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
